@@ -5,4 +5,4 @@
 ##### H5 Header
 ###### H6 Header
 
-![Image of Securityknightocat] (https://octodex.github.com/images/securityknightocat.png)
+![Image of Securityknightocat](https://octodex.github.com/images/securityknightocat.png)
